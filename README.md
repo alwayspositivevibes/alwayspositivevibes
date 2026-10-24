@@ -230,7 +230,7 @@ Every project is an opportunity to understand a problem more deeply.
 
 <div align="center">
 
-<img src="./github-contribution-grid-snake.gif" alt="Decorative animated contribution grid" width="100%"/>
+<img src="./github-contribution-grid-snake.gif" alt="Decorative animated contribution grid" width="80%"/>
 
 </div>
 
