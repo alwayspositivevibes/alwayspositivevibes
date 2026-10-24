@@ -24,6 +24,8 @@
 
 ## `01` // SYSTEM IDENTIFICATION
 
+<div align="center">
+
 ```text
 ┌────────────────────────────────────────────────────────────┐
 │               ENGINEER IDENTIFICATION FILE                 │
@@ -41,6 +43,7 @@
 └────────────────────────────────────────────────────────────┘
 ```
 
+</div>
 I'm an Electronics and Communication Engineering student exploring the intersection of **electronics, software development, artificial intelligence, and open-source technology**.
 
 I enjoy taking ideas beyond theory — experimenting with tools, developing interactive projects, and learning how hardware and software work together.
@@ -91,8 +94,6 @@ Exploring ways to make electronics more accessible through interactive learning 
 The development identity associated with my projects, ideas, and explorations across software and engineering.
 
 `ENGINEERING / INNOVATION`
-
-[Explore my repositories →](https://github.com/alwayspositivevibes?tab=repositories)
 
 </td>
 </tr>
