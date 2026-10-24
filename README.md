@@ -230,6 +230,12 @@ Every project is an opportunity to understand a problem more deeply.
 
 <div align="center">
 
+<img src="./github-contribution-grid-snake.gif" alt="Decorative animated contribution grid" width="100%"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=alwayspositivevibes&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9" width="80%" alt="GitHub contribution streak"/>
 
 </div>
