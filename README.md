@@ -204,6 +204,8 @@ Every project is an opportunity to understand a problem more deeply.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=600&color=67E8F9&center=true&vCenter=true&width=550&height=40&lines=INITIALIZING+AUDIO+SYSTEM...;CONNECTING+TO+SPOTIFY...;LOADING+RECENTLY+PLAYED+TRACKS..." alt="Audio system initialization"/>
 
+
+
 ### NOW PLAYING // PERSONAL AUDIO FEED
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31pab3luxbxfwixspvzm2p7why6e)
@@ -225,12 +227,6 @@ Every project is an opportunity to understand a problem more deeply.
 <!-- ========================================================= -->
 
 ## `06` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/alwayspositivevibes/alwayspositivevibes/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
 
 <div align="center">
 
